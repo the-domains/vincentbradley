@@ -1,6 +1,6 @@
 name: VincentBradley
 favicon: null
-layout_spectrum: 0.6307582026347518
+layout_spectrum: 0
 typography_spectrum: 0.8024438542779535
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.9646223683375865
+    - '#d6dee0'
+    - '#7e7a6e'
+    - '#a6aeb0'
+    - '#0e1215'
+    - '#42516e'
+  brandStrength: 1
   lightness: 0.6312250529881567
-  saturation: 0.3752601225860417
+  saturation: 0.5
   rhythmicContrast: 0.29101021960377693
 purpose: []
